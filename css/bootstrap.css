@@ -83,6 +83,9 @@ sup {
 sub {
   bottom: -.25em;
 }
+.jumu{
+  background-image: ./img/1.jpg;
+}
 img {
   border: 0;
 }
